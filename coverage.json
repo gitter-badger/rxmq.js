@@ -1,0 +1,19 @@
+{
+  "coverage": "100%",
+  "expectCount": 23,
+  "actualCount": 23,
+  "files": {
+    "src/channel.js": {
+      "expectCount": 12,
+      "actualCount": 12
+    },
+    "src/rx/endlessSubject.js": {
+      "expectCount": 2,
+      "actualCount": 2
+    },
+    "src/rxmq.js": {
+      "expectCount": 9,
+      "actualCount": 9
+    }
+  }
+}
